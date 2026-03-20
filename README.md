@@ -38,6 +38,7 @@ AI Log Analyzer processes application logs in real-time, detects anomalies, and 
 | (Storage + Cache)    |           |   Root Cause Engine  |
 +----------------------+           +----------------------+
 
+
 ## API workflow
 1️⃣ Log Ingestion
 Client sends logs via REST API
